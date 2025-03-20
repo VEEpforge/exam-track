@@ -15,5 +15,73 @@
       "email": "earl@example.com",
       "password": "12345"
     }
+  ],
+  "records": [
+    {
+      "id": "622a",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:48:43 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:48:51 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "def5",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:48:56 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:48:57 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "572b",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:56:13 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:56:13 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "27b6",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:56:16 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:56:16 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "dcd4",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:56:41 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:56:42 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "510f",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:56:43 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:56:50 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "4e7b",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:58:16 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:58:16 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "26f3",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:58:19 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:58:19 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "2749",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:58:21 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:58:23 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "5cb3",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 15:59:01 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 15:59:01 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "149d",
+      "employee_id": "1",
+      "timein": "Thu Mar 20 2025 16:49:42 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Thu Mar 20 2025 16:49:43 GMT+0800 (Philippine Standard Time)"
+    }
   ]
 }
