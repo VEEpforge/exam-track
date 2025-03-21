@@ -1,87 +1,111 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "email": "karl@example.com",
       "password": "password123"
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "ezra@example.com",
       "password": "password456"
     },
     {
-      "id": 3,
+      "id": "3",
       "email": "earl@example.com",
       "password": "12345"
     }
   ],
   "records": [
     {
-      "id": "622a",
+      "id": "6c60",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:48:43 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:48:51 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 03:53:16 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:12:17 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "def5",
+      "id": "3659",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:48:56 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:48:57 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:12:22 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:12:23 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "572b",
+      "id": "eb16",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:56:13 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:56:13 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:27 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:27 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "27b6",
+      "id": "3453",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:56:16 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:56:16 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:28 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:28 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "dcd4",
+      "id": "d3b3",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:56:41 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:56:42 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:29 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:29 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "510f",
+      "id": "a58b",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:56:43 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:56:50 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:30 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:30 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "4e7b",
+      "id": "97a4",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:58:16 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:58:16 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:31 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:31 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "26f3",
+      "id": "7d2a",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:58:19 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:58:19 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:32 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:33 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "2749",
+      "id": "f25e",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:58:21 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:58:23 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:33 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:34 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "5cb3",
+      "id": "b105",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 15:59:01 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 15:59:01 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:34 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:35 GMT+0800 (Philippine Standard Time)"
     },
     {
-      "id": "149d",
+      "id": "4adf",
       "employee_id": "1",
-      "timein": "Thu Mar 20 2025 16:49:42 GMT+0800 (Philippine Standard Time)",
-      "timeout": "Thu Mar 20 2025 16:49:43 GMT+0800 (Philippine Standard Time)"
+      "timein": "Fri Mar 21 2025 04:21:36 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:21:40 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "4068",
+      "employee_id": "1",
+      "timein": "Fri Mar 21 2025 04:28:05 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:28:07 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "a946",
+      "employee_id": "1",
+      "timein": "Fri Mar 21 2025 04:31:03 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:31:09 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "752e",
+      "employee_id": "1",
+      "timein": "Fri Mar 21 2025 04:31:36 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 04:31:40 GMT+0800 (Philippine Standard Time)"
+    },
+    {
+      "id": "4f18",
+      "employee_id": "1",
+      "timein": "Fri Mar 21 2025 13:19:13 GMT+0800 (Philippine Standard Time)",
+      "timeout": "Fri Mar 21 2025 13:20:12 GMT+0800 (Philippine Standard Time)"
     }
   ]
 }
