@@ -18,10 +18,8 @@ const Header = () => {
 		if (!loggedIn) {
 			navigate("/login"); // Redirect to the login page if not logged in
 		}
-	}, [])
+	}, [loggedIn, navigate])
 	
-	
-
   const handleLogout = () => {
     localStorage.removeItem("loggedIn");
     navigate("/login");
@@ -37,7 +35,7 @@ const Header = () => {
 						<AvatarFallback>CN</AvatarFallback>
 					</Avatar>
 					<DropdownMenu>
-						<DropdownMenuTrigger>
+						<DropdownMenuTrigger asChild>
 							<Button
 								variant="link"
 								className="text-primary-foreground"

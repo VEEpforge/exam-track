@@ -42,9 +42,11 @@ const Attendance = () => {
       }
     };
 
-		if(isTimedIn) {	// triggered to refetch
+		if(user || isTimedIn) {	// triggered to refetch
 			getRecords();
 		}
+
+		getRecords();
   }, [user, isTimedIn]);
 
 
