@@ -11,19 +11,6 @@ import {
   TableHeader,
   TableRow, 
 } from './ui/table'
-import {
-  Dialog,
-  DialogClose,
-  DialogContent,
-  DialogDescription,
-  DialogFooter,
-  DialogHeader,
-  DialogTitle,
-  DialogTrigger,
-} from "./ui/dialog"
-import { Label } from './ui/label'
-import { Input } from './ui/input'
-import { Copy } from 'lucide-react'
 
 const Attendance = () => {
 	const [user, setUser] = useState(null)
